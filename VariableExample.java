@@ -1,4 +1,4 @@
-public class VariablesExample {
+public class VariableExample {
     public static void main(String[] args) {
         //1.1 ตัวแปรที่ใช้เก็บค่าของขนาดของเสื้อผ้า ซึ่งมีขนานเป็น s, m หรือ l
         char clothingSize = 's'; // สามารถเป็น 's', 'm' หรือ 'l'
